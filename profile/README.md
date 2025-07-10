@@ -6,10 +6,7 @@
   <a href="https://linktree.com/77innovationlabs" target="_blank"><img src="https://img.shields.io/badge/linktree-5b5b5b?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/company/77innovationlabs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3090E6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.77innovationlabs.com/" target="_blank"><img src="https://img.shields.io/badge/website-262262?style=for-the-badge&logo=www&logoColor=white"></a>
-  <a href="https://www.instagram.com/77innovationlabs" target="_blank"><img src="https://img.shields.io/badge/instagram-5b5b5b?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://x.com/77innovationlab" target="_blank"><img src="https://img.shields.io/badge/x-3090E6?style=for-the-badge&logoColor=white"></a>
-  <a href="https://discord.gg/H2UpdzbbRJ" target="_blank"><img src="https://img.shields.io/badge/discord-262262?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://tiktok.com/@77innovationlabs" target="_blank"><img src="https://img.shields.io/badge/tiktok-5b5b5b?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
 
 </br>
